@@ -1,4 +1,4 @@
-# React Boilerplate
+# React Redux Mini Brief Project: Groceries List
 
 ## Run Instructions
 
